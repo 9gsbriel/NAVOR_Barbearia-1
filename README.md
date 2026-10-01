@@ -1,2 +1,2 @@
 # NAVOR_Barbearia
-Projeto Universitário 
+Projeto Universitário NAVOR_Barbearia
